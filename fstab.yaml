@@ -1,5 +1,5 @@
 mountpoints:
   /:
-     url: author-p10652-e203356-cmstg.adobeaemcloud.com/bin/franklin.delivery/MichelleLindseyV/wysiwyg-authoring/main
+     url: author-p10652-e203356-cmstg.adobeaemcloud.com/bin/franklin.delivery/michellelindseyv/wysiwyg-authoring/main
      type: "markup"
      suffix: ".html"
